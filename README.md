@@ -1,4 +1,20 @@
-## 🌐 Socials:
+# 💫 Hi 👋, I'm Al Rafayet Habib  
+**A passionate Software Engineering Student from Bangladesh 🇧🇩**
+
+📩 **Email me:** [alrafayethabib@gmail.com](mailto:alrafayethabib@gmail.com)  
+Let's collaborate or learn something new together! 😊  
+
+---
+
+- 🎓 **Currently studying at:** Daffodil International University  
+- 🔭 **Currently working on:** Upcoming class projects  
+- 🌱 **Currently learning:** C programming & HTML fundamentals  
+- 👯 **Looking to collaborate on:** Beginner-friendly coding projects  
+- 🤔 **Looking for help with:** Learning web development basics  
+- 💬 **Ask me about:** C language, HTML, or university projects  
+- 📫 **Reach me at:** [alrafayethabib@gmail.com](mailto:alrafayethabib@gmail.com)  
+- 😄 **Pronouns:** He/Him  
+ ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aZxEBdTr) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/alrafayethabib.me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alrafayethabib) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/alrafayethabib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alrafayethabib@gmail.com) 
 
 # 💻 Tech Stack:
