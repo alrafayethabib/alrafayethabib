@@ -1,7 +1,3 @@
-# 💫 About Me:
-🎓 Department: Software Engineering<br>🏫 University: Daffodil International University<br>💻 Known Languages: C, HTML<br>🚀 Projects: Upcoming class projects<br>🎯 Goal: To become a Developer<br>📫 Email: alrafayethabib@gmail.com
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aZxEBdTr) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/alrafayethabib.me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alrafayethabib) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/alrafayethabib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alrafayethabib@gmail.com) 
 
