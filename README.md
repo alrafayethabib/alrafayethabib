@@ -1,5 +1,5 @@
 # 💫 About Me:
-👤 Name: Al Rafayet Habib<br>🎓 Department: Software Engineering<br>🏫 University: Daffodil International University<br>💻 Known Languages: C, HTML<br>🚀 Projects: Upcoming class projects<br>🎯 Goal: To become a Developer<br>📫 Email: alrafayethabib@gmail.com
+🎓 Department: Software Engineering<br>🏫 University: Daffodil International University<br>💻 Known Languages: C, HTML<br>🚀 Projects: Upcoming class projects<br>🎯 Goal: To become a Developer<br>📫 Email: alrafayethabib@gmail.com
 
 
 ## 🌐 Socials:
