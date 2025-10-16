@@ -1,9 +1,16 @@
-# 💫 Hi 👋, I'm Al Rafayet Habib  
-**A passionate Software Engineering Student from Bangladesh 🇧🇩**
+# 💫 Hi there! I'm Al Rafayet Habib 👋   
+### 🚀 Software Engineering Student | Tech Enthusiast | Problem Solver
 
-📩 **Email me:** [alrafayethabib@gmail.com](mailto:alrafayethabib@gmail.com)
-About me: https://about.me/alrafayethabib
-Let's collaborate or learn something new together! 😊  
+🌍 From **Bangladesh 🇧🇩**  
+🎓 Studying **Software Engineering**  
+💡 Passionate about **Web Development, AI, and Open Source**  
+⚡ Love building things that matter and exploring new technologies
+
+---
+
+### 📬 Contact Me
+📧 Email: **alrafayethabib@gmail.com**  
+🔗 Portfolio: **https://about.me/alrafayethabib**
 
 ---
 
