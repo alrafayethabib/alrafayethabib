@@ -1,7 +1,8 @@
 # 💫 Hi 👋, I'm Al Rafayet Habib  
 **A passionate Software Engineering Student from Bangladesh 🇧🇩**
 
-📩 **Email me:** [alrafayethabib@gmail.com](mailto:alrafayethabib@gmail.com)  
+📩 **Email me:** [alrafayethabib@gmail.com](mailto:alrafayethabib@gmail.com)
+About me: https://about.me/alrafayethabib
 Let's collaborate or learn something new together! 😊  
 
 ---
